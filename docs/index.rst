@@ -1,4 +1,4 @@
-How to Fix NordPass Not Working on Your Device?
+How to Fix NordPass Not Working Problems on Your Device?
 ============================================
 
 
