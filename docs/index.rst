@@ -1,9 +1,8 @@
 How to Fix NordPass Not Working on Your Device?
-  ============================================
+============================================
 
 
-
-**NordPass** is a popular password manager that allows users to securely store and manage passwords. While it generally works flawlessly, there are occasional instances when users encounter issues that cause the app to stop working or behave unexpectedly. In this document, we’ll explore common reasons why NordPass might not be working and provide step-by-step solutions for troubleshooting.
+NordPass is a popular password manager that allows users to securely store and manage passwords. While it generally works flawlessly, there are occasional instances when users encounter issues that cause the app to stop working or behave unexpectedly. In this document, we’ll explore common reasons why NordPass might not be working and provide step-by-step solutions for troubleshooting.
   
 .. image:: click-here.gif
    :alt: My Project Logo
